@@ -1,0 +1,5 @@
+﻿-IC:\MATLAB_Doc\test\testDebugSFcn
+-IC:\MATLAB_Doc\test\testDebugSFcn\Subsystem_sfcn_rtw
+-I"C:\Program Files\MATLAB\R2023b\extern\include"
+-I"C:\Program Files\MATLAB\R2023b\simulink\include"
+-I"C:\Program Files\MATLAB\R2023b\rtw\c\src"

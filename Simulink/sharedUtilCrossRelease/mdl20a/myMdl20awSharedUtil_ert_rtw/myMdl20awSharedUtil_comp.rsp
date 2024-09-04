@@ -1,0 +1,8 @@
+-IC:/MATLAB_Doc/test/sharedUtilCrossRelease/mdl20a
+-IC:/MATLAB_Doc/test/sharedUtilCrossRelease/mdl20a/myMdl20awSharedUtil_ert_rtw
+-IC:/Program\ Files/MATLAB/R2020a/extern/include
+-IC:/Program\ Files/MATLAB/R2020a/simulink/include
+-IC:/Program\ Files/MATLAB/R2020a/rtw/c/src
+-IC:/Program\ Files/MATLAB/R2020a/rtw/c/src/ext_mode/common
+-IC:/Program\ Files/MATLAB/R2020a/rtw/c/ert
+-IC:/MATLAB_Doc/test/sharedUtilCrossRelease/mdl20a/slprj/ert/_sharedutils

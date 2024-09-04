@@ -1,0 +1,9 @@
+﻿-IC:\MATLAB_Doc\test\sharedUtilCrossRelease\mdl23b\slprj\ert\myMdl20awSharedUtil
+-IC:\MATLAB_Doc\test\sharedUtilCrossRelease\mdl23b
+-IC:\MATLAB_Doc\test\sharedUtilCrossRelease\mdl23b\myTopMdl23b_ert_rtw
+-I"C:\Program Files\MATLAB\R2023b\extern\include"
+-I"C:\Program Files\MATLAB\R2023b\simulink\include"
+-I"C:\Program Files\MATLAB\R2023b\rtw\c\src"
+-I"C:\Program Files\MATLAB\R2023b\rtw\c\src\ext_mode\common"
+-I"C:\Program Files\MATLAB\R2023b\rtw\c\ert"
+-IC:\MATLAB_Doc\test\sharedUtilCrossRelease\mdl23b\slprj\ert\_sharedutils
